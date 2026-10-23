@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/chestnut-sessions.webp" width="860" alt="Chestnut's Sessions list: grouped session cards with live progress beside a running agent's terminal">
+  <img src="assets/chestnut-hero.webp" width="860" alt="A tangle of agent terminals with no order, then Chestnut gathers them into one window and proposes a grouped layout: every agent, organized">
 </p>
 
 Let Chestnut stay on top of your agents, so you can stay focused on what really needs your attention.
