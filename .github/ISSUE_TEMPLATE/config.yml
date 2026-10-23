@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature requests and ideas
+    url: https://github.com/youtilityapps/chestnut/discussions/new?category=ideas
+    about: Suggest a feature or vote on someone else's, over in Discussions.
+  - name: Questions and help
+    url: https://github.com/youtilityapps/chestnut/discussions/new?category=q-a
+    about: Ask a question rather than filing a bug.
